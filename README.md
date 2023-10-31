@@ -6,6 +6,11 @@ This is the documentation for the Book API that allows you to perform CRUD opera
 
 - [How to Use](#how-to-use)
 - [Endpoints](#endpoints)
+- Postman documentation link(#postman)
+
+## postman
+https://documenter.getpostman.com/view/20349961/2s9YXb8kVW
+
 
 ## how-to-use
 - npm i 
