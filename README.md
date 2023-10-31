@@ -15,7 +15,7 @@ https://documenter.getpostman.com/view/20349961/2s9YXb8kVW
 ## how-to-use
 - npm i 
 - npm run start
-- create a db in local environmeny
+- create a db in local environment
 
 ## Endpoints
 
